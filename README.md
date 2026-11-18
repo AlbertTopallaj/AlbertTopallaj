@@ -56,46 +56,6 @@ mindset:   Clean, readable code that solves real problems
 
 <br/>
 
-<!-- ======================  PROJECTS  ====================== -->
-## &nbsp;🚀&nbsp; Featured projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AlbertTopallaj/kvarteri-backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertTopallaj&repo=kvarteri-backend&theme=tokyonight&hide_border=true" alt="Kvarteri backend" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlbertTopallaj/kvarteri-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertTopallaj&repo=kvarteri-frontend&theme=tokyonight&hide_border=true" alt="Kvarteri frontend" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AlbertTopallaj/marvel-mobileapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertTopallaj&repo=marvel-mobileapp&theme=tokyonight&hide_border=true" alt="Marvel mobile app" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlbertTopallaj/FileApiOpenID">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertTopallaj&repo=FileApiOpenID&theme=tokyonight&hide_border=true" alt="File API with OpenID" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<sub><b>Kvarteri</b> — a full system with a Java / Spring Boot backend and a JavaScript frontend ·
-<b>Marvel App</b> — a React Native mobile app backed by a Spring Boot REST API ·
-<b>File API</b> — a Spring Boot API with OpenID login &amp; registration</sub>
-
-</div>
-
-<br/>
-
 <!-- ======================  STATS  ====================== -->
 ## &nbsp;📊&nbsp; GitHub stats
 
