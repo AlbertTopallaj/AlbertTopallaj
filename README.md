@@ -28,7 +28,7 @@
 name:      Albert Topallaj
 role:      Junior Full-Stack Developer
 focus:     Spring Boot · REST APIs · React
-learning:  Deepening backend architecture & API design
+learning:  Spring Boot, databases & REST API design
 seeking:   LIA internship — ready to contribute and grow
 mindset:   Clean, readable code that solves real problems
 ```
